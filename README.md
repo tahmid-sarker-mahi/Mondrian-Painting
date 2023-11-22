@@ -1,6 +1,6 @@
 # Mondrian Painting
 
-- [**Live Preview**](https://tahmid-sarker.github.io/Mondrian-Painting)
+- [**Live Preview**](https://tahmid-sarker-mahi.github.io/Mondrian-Painting)
 
 ## How to Access the Webpage Locally
 
@@ -11,4 +11,4 @@ If you prefer to access the webpage locally, follow these steps:
 
 ## Credits
 
-This project was developed by [Md. Tahmid Sarker Mahi](https://tahmid-sarker.github.io).
+This project was developed by [Md. Tahmid Sarker Mahi](https://tahmid-sarker-mahi.github.io).
